@@ -1,5 +1,7 @@
 # Predicting patterns in customer behavior that can help identify customers who are likely to churn soon from SyriaTel's services. 
 
+By Miriam Nguru
+
 Customer churn remains a significant challenge that directly impacts business profitability and sustainability in the telecommunication landscape. Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company or stop using its services. Churn analysis is commonly used in various industries to understand why customers leave, predict which customers are likely to churn, and develop strategies to retain customers. 
 
 Business Understanding
