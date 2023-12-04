@@ -8,3 +8,39 @@ SyriaTel, a telecommunications company, aims to understand and mitigate factors 
 Business Problem
 SyriaTel faces a 14.5% customer churn rate, surpassing the acceptable 5-7%. The goal is to
 comprehend the features influencing churn and reduce it to a monthly rate of 0.58%. This is approached as a binary classification problem, recognizing the cost-effectiveness of retaining customers over acquiring new ones.
+
+Data Understanding
+As mentioned above the dataset size provided has a size limitation of 3333 rows. The data is divided into categorical and  numerical values. Under categorical data we shall focus on 'International Plan', 'Voicemail Plan', 'Churn' while in Numerical data we shall focus on 'Total charge per Minute', 'Area code', and 'Customer Service Calls' Just to mention a few.
+Therefore we need to understand the following:
+● What features in the dataset are primary determinants of customer churn and to what
+extent?
+● How can the findings be interpreted, and what cost-effective solutions can SyriaTel
+implement?
+● What is the customer charge per minute when each customer pays the average charge
+per customer?
+
+Recommendations and Conclusions
+
+Customer Churn Reduction Strategies:
+
+Offer Incentives
+Target the Correct Audience
+Provide Better Service
+Understand and Address Complaints at the Source
+Showcase Competitive Advantages
+Offer Long-Term Contracts
+Analyze Churn Causes
+Engage in Relationship Marketing
+Identify Customer Risk Factors
+Define Most Valuable Customers
+Segment Customers based on Profitability, Readiness to Leave, and Likelihood to Respond
+Positively to Offers
+Strategic Approach
+
+Using the CRISP-DM framework, the analysis focuses on understanding and addressing
+customer churn.
+The study aims to empower SyriaTel with insights into customer churn, providing actionable
+strategies. The ultimate goal is a feasible reduction of the churn rate by at least 7%, aligning
+with the economic principle that retaining customers is more cost-effective than acquiring new
+ones.
+
