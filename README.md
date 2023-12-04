@@ -20,8 +20,14 @@ Therefore we need to understand the following:
 extent?
 ● How can the findings be interpreted, and what cost-effective solutions can SyriaTel
 implement?
-● What is the customer charge per minute when each customer pays the average charge
-per customer?
+● What is the customer charge per minute when each customer pays the average charge per customer?
+
+
+Main Objective:
+To identify key features that significantly influence a customer to churn.
+To evaluate the performance of the developed model
+To develop a model that accurately estimates churn likelihood.
+To interpret and give relevant advice to the client. 
 
 Recommendations and Conclusions
 
